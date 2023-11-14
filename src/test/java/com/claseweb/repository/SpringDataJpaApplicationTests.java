@@ -1,4 +1,4 @@
-package com.claseweb.springdatajpa;
+package com.claseweb.repository;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
